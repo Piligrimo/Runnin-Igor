@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: b4f3087c8041c844bb11aa672750cd51
+timeCreated: 1539445833
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Igor2_0
+    21300002: Igor2_1
+    21300004: Igor2_2
+    21300006: Igor2_3
+    21300008: Igor2_4
+    21300010: Igor2_5
+    21300012: Igor2_6
+    21300014: Igor2_7
+    21300016: Igor2_8
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Igor2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 453
+        width: 351
+        height: 377
+      alignment: 9
+      pivot: {x: 0.44292626, y: 0.045915034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Igor2_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 734
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Igor2_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 526
+        width: 295
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Igor2_3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 657
+        width: 39
+        height: 44
+      alignment: 9
+      pivot: {x: 0.03303254, y: 0.54138875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Igor2_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 187
+        width: 185
+        height: 205
+      alignment: 9
+      pivot: {x: 0.24405174, y: 0.8997688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Igor2_5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 275
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Igor2_6
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 225
+        width: 120
+        height: 264
+      alignment: 9
+      pivot: {x: 0.57588196, y: 0.70695066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Igor2_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3
+        width: 215
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Igor2_8
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 23
+        width: 182
+        height: 179
+      alignment: 9
+      pivot: {x: 0.78017986, y: 0.7034826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
